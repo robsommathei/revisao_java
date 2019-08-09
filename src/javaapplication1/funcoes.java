@@ -23,7 +23,7 @@ public class funcoes {
         int resultado = valor1 + valor2;
           
         return resultado;
-    }
+    }      
     
     //Somar números de um array de inteiros
     public static int somarNumeros(int[] numeros){
